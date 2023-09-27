@@ -1,6 +1,8 @@
-- hello, my names is cyberkalariah
-- 👀 I love tech
-- i want to be good at this.
+CYBERGIRL
+TECH
+BIOTECH
+MEDTECH
+HACK</>
 
 
 <!---
